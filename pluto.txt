@@ -1,2 +1,6 @@
+
 Pluto is too a planet!
 It has a moon called Charon.
+
+We resolved some conflicts here.
+
